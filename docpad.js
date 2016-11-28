@@ -60,6 +60,11 @@ var docpadConfig = {
 			]);
 		}
 	},
+	templateData: {
+		site: {
+			isso_url: "https://comments.timstallard.me.uk/"
+		}
+	},
 	environments: {
 		static: {
 			plugins: {
